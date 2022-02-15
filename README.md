@@ -13,7 +13,7 @@ I'm sharpening my skills in React JS 🔪
 
 I'm learning Python 🧠 
 - 🕸 a web scraper for Substack/Newsletter writers
-- ⛏ custom Minecraft puzzle maps w/ <a href="https://education.minecraft.net/en-us/homepage">Minecraft: Education Edition</a>
+- ⛏ custom Minecraft puzzle maps & datapacks
 
 ### Things I've Learned:
 
